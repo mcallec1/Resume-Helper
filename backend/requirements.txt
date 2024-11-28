@@ -1,0 +1,13 @@
+fastapi==0.109.2
+uvicorn==0.27.1
+python-multipart==0.0.9
+crewai==0.1.30
+python-dotenv==1.0.1
+beautifulsoup4==4.12.3
+requests==2.31.0
+PyPDF2==3.0.1
+markdown>=3.4.1
+python-docx>=0.8.11
+pdfminer.six>=20221105
+weasyprint==60.2
+markdown2==2.4.12
